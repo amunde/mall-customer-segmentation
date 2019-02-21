@@ -1,4 +1,4 @@
-# car-price-prediction
+# mall-customer-segmentation
 # Content: Unsupervised Learning (Clustering)
 ## Project: Grouping customers based on their features
 ### Install
